@@ -1,0 +1,17 @@
+{
+  "name": "@rebel-ai/telemetry-dashboard",
+  "version": "1.0.0",
+  "description": "Rebel AI Ventures - telemetry-dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests yet'",
+    "lint": "echo 'No linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidOlmer/telemetry-dashboard.git"
+  },
+  "author": "Rebel AI Ventures",
+  "license": "MIT"
+}
